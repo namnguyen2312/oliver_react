@@ -1,0 +1,73 @@
+export default [{
+  id: 1,
+  href: '/',
+  points: '+100pts',
+  src: '/images/icon/ico_fb_conect.png',
+  connected: true
+}, {
+  id: 2,
+  href: '/',
+  points: '+100pts',
+  src: '/images/icon/ico_twitter_conect.png',
+  connected: true
+}, {
+  id: 3,
+  href: '/',
+  points: '+100pts',
+  src: '/images/icon/ico_istagram_conect.png',
+  connected: false
+}, {
+  id: 4,
+  href: '/',
+  points: '+100pts',
+  src: '/images/icon/ico_twitch_conect.png',
+  connected: false
+}, {
+  id: 5,
+  href: '/',
+  points: '+100pts',
+  src: '/images/icon/ico_snap_conect.png',
+  connected: false
+}, {
+  id: 6,
+  href: '/',
+  points: '+100pts',
+  src: '/images/icon/ico_google_plus_conect.png',
+  connected: false
+}, {
+  id: 7,
+  href: '/',
+  points: '+100pts',
+  src: '/images/icon/ico_psn_conect.png',
+  connected: false
+}, {
+  id: 8,
+  href: '/',
+  points: '+100pts',
+  src: '/images/icon/ico_bl_conect.png',
+  connected: false
+}, {
+  id: 9,
+  href: '/',
+  points: '+100pts',
+  src: '/images/icon/ico_stream_conect.png',
+  connected: false
+}, {
+  id: 10,
+  href: '/',
+  points: '+100pts',
+  src: '/images/icon/ico_origin_conect.png',
+  connected: false
+}, {
+  id: 11,
+  href: '/',
+  points: '+100pts',
+  src: '/images/icon/ico_curse_conect.png',
+  connected: false
+}, {
+  id: 12,
+  href: '/',
+  points: '+100pts',
+  src: '/images/icon/ico_xbl_conect.png',
+  connected: false
+}];

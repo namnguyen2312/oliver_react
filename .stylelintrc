@@ -1,0 +1,44 @@
+{
+  "extends": "stylelint-config-standard",
+  "rules": {
+    "declaration-block-properties-order": [
+      [
+        "content",
+        "display",
+        "position",
+        "top",
+        "bottom",
+        "left",
+        "right",
+        "box-sizing",
+        "margin",
+        "margin-top",
+        "margin-bottom",
+        "margin-left",
+        "margin-right",
+        "border",
+        "border-top",
+        "border-bottom",
+        "border-left",
+        "border-right",
+        "border-radius",
+        "padding",
+        "padding-top",
+        "padding-bottom",
+        "padding-left",
+        "padding-right",
+        "width",
+        "min-width",
+        "max-width",
+        "height",
+        "min-height",
+        "max-height",
+        "clear",
+        "float"
+      ],
+      {
+        unspecified: "bottomAlphabetical"
+      }
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "app": {
+    "title": "",
+    "urls": {
+      "base": ""
+    },
+    "default": {
+      "language": ""
+    },
+    "API_ROOT": "http://api.greentech-vn.com",
+    "ROOT_PATH": "/site/dashboard"
+  },
+  "nolint": true,
+  "server": {
+    "port": 3000
+  },
+  "socials": {
+    "facebook": {
+      "url": "https://graph.facebook.com/",
+      "clientId": "427159384283121",
+      "secretId": "0bb13b3ecacb76ddb5e940c150d5c0d8",
+      "version": "v2.8",
+      "cookie": true,
+      "xfbml": true
+    },
+    "twitch": {
+      "url": "https://api.twitch.tv/kraken",
+      "clientId": "34fcjgu42w1rodkjksllx2jv5028b2",
+      "secretId": ""
+    },
+    "twitter": {
+      "url": "",
+      "apiKey": "ggwuvg11RnjpJXqMqDId8Er9J",
+      "apiSecret": "i4sfhVmQhvTJka4R9P5FBe5kN2CxRKtDyTQYey7f6IE9F91Cbz",
+      "accessToken": "838748548531302400-Md2n7nxX9QkxIR8dTWX8ZDyOKtgcHBh",
+      "accessTokenSecret": "E6NV8rsbo5s2JLuc5r7IzhgS4TgklTi9BXuZrr3HXJK2d",
+      "signatureMethod": "HMAC-SHA1",
+      "requestTokenUrl": "https://api.twitter.com/oauth/request_token",
+      "accessTokenUrl": "https://api.twitter.com/oauth/access_token",
+      "authenticateUrl": "https://api.twitter.com/oauth/authenticate",
+      "authorizeUrl": "https://api.twitter.com/oauth/authorize"
+    },
+    "youtube": {
+      "url": "",
+      "clientId": "1063371854390-6lhh3uu6kljekdni0umcslr94p6cfmas.apps.googleusercontent.com",
+      "apiKey": "zfpO1NHxUjEelS1Xsjse_7Xb",
+      "scope": "https://gdata.youtube.com",
+      "oauthUrl": "https://accounts.google.com/o/oauth2/auth",
+      "redirectUri": "http://localhost:3000/",
+      "responseType": "code",
+      "approvalPrompt": "force",
+      "accessType": "offline"
+    }
+  },
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImp0aSI6ImQxODlkNDQwNmQ0YjFjOWMzM2YzNTcyZGVmZTg2MjM1YmM0MDg1OWNjMWRkMjM2ODI3YWRlNjI3NDhjNDAyMWZjNTVkMzhmMWFmYjM1YTEyIn0.eyJhdWQiOiIyIiwianRpIjoiZDE4OWQ0NDA2ZDRiMWM5YzMzZjM1NzJkZWZlODYyMzViYzQwODU5Y2MxZGQyMzY4MjdhZGU2Mjc0OGM0MDIxZmM1NWQzOGYxYWZiMzVhMTIiLCJpYXQiOjE0OTAzODM3MDEsIm5iZiI6MTQ5MDM4MzcwMSwiZXhwIjoxNDkxNjc5NzAxLCJzdWIiOiIxMSIsInNjb3BlcyI6WyIqIl19.mNCPV33pUJrBk1gGspbUQ8KGBbxYi6ZW5Sb5tZ_VCTiTAfxJftqNY5lzJNrptuTYCdRfxhdSmfFgJ9prBehH-fKgYvd_B7UA49puPD4Za6ibF7vd5wEkKYOTLKgYTZ7SzHjsH4WxO5HtIMifQtnpU_zyvTyLdVO4h3wEyhz4beRCVhxweme5QWvfQ6OH2Kk5COzeUozQk8kimbpJ22_H6NVnVxUrzG2R5X1043C7cLXJ75J3eF6TxuXJk06_iaQzVFPwGm42B6FlvaZ3wglPxnJ0_dbhzs1iNzyYdW0VF82E4BciP7-Qtko2x1UIBrd2OePXWkJeYRGkNJN18JF2gqW_JK4vxX-uRwk1XkV0NQhiOA6H2VXogujr9qufVaQ5YFulIYrVwDSn4MRb46YCjzfHuazjovu0ed4EArx7RwKQo_o2CEYsmUNP9kyZrjrid8fbd30vuOhd24k4pEesw2Nb87w91jmzdNrL6otxSFMF4J9Z-0xNtuRY98AOiCHI4X_Q5AoeEdWsTduiNon0NEP29K42NKWsaD_NwbUoclEDWJyvnxNDovXqD59rUaX9GPesUfcNdk50dfr6Z2V49jkZ1Uhmx4yA2yAAM6ZfhIuka8emIDvKTLZxaAJ4Q1Zr7qLSSqtnn9TshxrOAK3zZxm1oKn5bl2Y04LUHFahEVI"
+}

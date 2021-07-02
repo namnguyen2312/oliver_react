@@ -1,0 +1,33 @@
+export default [{
+  src: '/images/icon/ico_fb_conect.png',
+  socialName: 'Facebook',
+  connected: false
+}, {
+  src: '/images/connect_youtube.png',
+  socialName: 'Youtube',
+  connected: false
+}, {
+  src: '/images/connect_twitter.png',
+  socialName: 'Twitter',
+  connected: false
+}, {
+  src: '/images/connect_xbox.png',
+  socialName: 'Xbox',
+  connected: true
+}, {
+  src: '/images/connect_steam.gif',
+  socialName: 'Steam',
+  connected: true
+}, {
+  src: '/images/connect_playstation.ico',
+  socialName: 'PlayStation',
+  connected: true
+}, {
+  src: '/images/connect_snapchat.png',
+  socialName: 'SnapChat',
+  connected: true
+}, {
+  src: '/images/connect_instagram.png',
+  socialName: 'Instagram',
+  connected: true
+}];

@@ -1,0 +1,6 @@
+@mixin font($name, $weight) {
+  font-family: $name;
+  @if ($weight) {
+    font-weight: $weight;
+  }
+}

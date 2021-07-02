@@ -1,0 +1,39 @@
+{
+  "app": {
+    "title": "",
+    "urls": {
+      "base": ""
+    },
+    "default": {
+      "language": ""
+    },
+    "API_ROOT": ""
+  },
+  "nolint": "",
+  "server": {
+    "port": 3000
+  },
+  "socials": {
+    "facebook": {
+      "url": "",
+      "clientId": "",
+      "secretId": ""
+    },
+    "twitch": {
+      "url": "",
+      "clientId": "",
+      "secretId": ""
+    },
+    "twitter": {
+      "url": "",
+      "clientId": "",
+      "secretId": ""
+    },
+    "youtube": {
+      "url": "",
+      "clientId": "",
+      "apiKey": "",
+      "scope": ""
+    }
+  }
+}
