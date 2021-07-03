@@ -11,7 +11,7 @@ Thumbs.db
 # Ignore dependency folders
 /bower_components
 /node_modules
-
+/Design
 # Ignore distribution folders
 /dist
 
